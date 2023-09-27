@@ -1,10 +1,7 @@
+[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm Narayan (Mayuresh) Gawas</h1>
 <h3 align="center">Web Developer | Turning Coffee into Code and Ideas into Websites</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayureshgawas99&label=Profile%20views&color=0e75b6&style=flat" alt="mayureshgawas99" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayureshgawas99" alt="mayureshgawas99" /></a> </p>
 
 - ⚡ Fun fact **Im a Cat Person**
 
