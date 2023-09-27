@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/narayan-gawas-5746b0179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narayan gawas" height="30" width="40" /></a>
 <a href="https://instagram.com/mayu_r_s_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayu_r_s_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/spt2021201070" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="spt2021201070" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@narayan_gawas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@narayan_gawas" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/narayan_gawas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@narayan_gawas" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/narayan01000111/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="narayan01000111/profile" height="30" width="40" /></a>
 </p>
 
