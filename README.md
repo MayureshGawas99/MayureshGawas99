@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Narayan (Mayuresh) Gawas</h1>
       <h3 align="center">
-        Web Developer | Turning Coffee into Code and Ideas into Websites
+        Graduate Analyst at Deutsche Bank | ICPC Regionalist '23 | Full Stack Developer | 4★ @codechef | Minecrafter⛏️
       </h3>
       - ⚡ Fun fact **Im a Cat Person**
       <h3 align="left">Connect with me:</h3>
