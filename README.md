@@ -1,62 +1,70 @@
-<h1 align="center">Hi 👋, I'm Narayan (Mayuresh) Gawas</h1>
-      <h3 align="center">
-        Graduate Analyst at Deutsche Bank | ICPC Regionalist '23 | Full Stack Developer | 4★ @codechef | Minecrafter⛏️
-      </h3>
-      - ⚡ Fun fact **Im a Cat Person**
-      <h3 align="left">Connect with me:</h3>
-      <p align="left">
-        <a
-          href="https://linkedin.com/in/narayan-gawas-5746b0179"
-          target="_blank"
-        >
-          <img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="narayan gawas"
-            height="30"
-            width="40"
-          />
-        </a>
-        <a href="https://instagram.com/mayu_r_s_" target="_blank">
-          <img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="mayu_r_s_"
-            height="30"
-            width="40"
-          />
-        </a>
-        <a href="https://www.codechef.com/users/narayan_gawas" target="_blank">
-          <img
-            align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
-            alt="spt2021201070"
-            height="30"
-            width="40"
-          />
-        </a>
-        <a href="https://www.hackerrank.com/narayan_gawas" target="_blank">
-          <img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-            alt="@narayan_gawas"
-            height="30"
-            width="40"
-          />
-        </a>
-        <a
-          href="https://auth.geeksforgeeks.org/user/narayan01000111/profile"
-          target="_blank"
-        >
-          <img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
-            alt="narayan01000111/profile"
-            height="30"
-            width="40"
-          />
-        </a>
-      </p>
+<h1 align="center">Hi there 👋, I'm Narayan Gawas</h1>
+
+<p align="center">
+  <a href="https://ngawas-portfolio.netlify.app/" target="_blank">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/narayan-gawas-5746b0179/" target="_blank">💼 LinkedIn</a> •
+  <a href="https://github.com/MayureshGawas99" target="_blank">🐙 GitHub</a>
+</p>
+
+---
+
+🎓 **Gold Medalist** | B.Tech in Electronics & Telecommunication  
+🏢 **Graduate Analyst @ Deutsche Bank** | Former Full Stack Intern @ DODAS  
+📍 Based in India | ✉️ narayan.gawas@spit.ac.in  
+
+---
+
+### 💻 Tech Stack
+
+- **Languages:** Python, JavaScript
+- **Frontend:** React, Tailwind CSS, HTML5, CSS3
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools & Platforms:** Git, Docker, Postman, Figma, TeamCity
+
+---
+
+### 🚀 Projects
+
+- 🔗 [**PRAYOG**](https://prayog.netlify.app/)  
+  MERN-based platform for students to showcase academic projects and collaborate. Includes real-time chat using Socket.io.
+
+- 🔗 [**BLOGSITE**](https://blogsite-mg.netlify.app/)  
+  AI-powered blogging platform with template suggestions, user auth, and responsive UI.
+
+---
+
+### 🏆 Achievements
+
+- 🥇 **RFT Excellence Award** – Deutsche Bank (2024)  
+- 🥇 **Kulpati Gold Medalist** – University Topper (2024)  
+- 🏅 ICPC Regionalist – ICPC Regionals Qualifier (2023)  
+- ⭐ **Global Rank 5** – CodeChef Starters 182  
+- 🏆 GFG Institutional Rank 2  
+- 🧠 CodeChef 4★ (Max Rating: 1919)  
+- 📚 LeetCode Max Rating: 1772 (60-day POTD streak)
+
+---
+
+### 📊 Coding Profiles
+
+- [CodeChef](https://www.codechef.com/users/narayan_gawas)
+- [LeetCode](https://leetcode.com/u/user3353e/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/user/narayan01000111/)
+- [HackerRank](https://www.hackerrank.com/profile/narayan_gawas)
+
+---
+
+### 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/narayan-gawas-5746b0179/)
+- 🌐 [Portfolio](https://ngawas-portfolio.netlify.app/)
+- ✉️ Email: narayan.gawas@spit.ac.in
+
+---
+
+⭐️ *Thanks for visiting my profile! Let's build something amazing together.* 🚀
+
       <h3 align="left">Languages and Tools:</h3>
       <p align="left">
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
